@@ -9,3 +9,7 @@
 *.sln
 *.user
 *.unityproj
+
+# --- Node backend ---
+/backend/node_modules/
+/backend/.env
