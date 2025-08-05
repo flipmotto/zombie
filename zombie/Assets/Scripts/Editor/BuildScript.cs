@@ -11,7 +11,8 @@ public class BuildScript
             scenes = new[] { "Assets/Scenes/SampleScene.unity" },
             locationPathName = "Build/Client/client.exe",
             target = BuildTarget.StandaloneWindows64,
-            options = BuildOptions.None
+            options = BuildOptions.None,
+            subtarget = (int)StandaloneBuildSubtarget.Player
         };
 
         BuildReport report = BuildPipeline.BuildPlayer(buildOptions);
