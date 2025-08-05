@@ -1,0 +1,11 @@
+# --- Unity ---
+/zombie/Library/
+/zombie/Temp/
+/zombie/Obj/
+/zombie/Builds/
+/zombie/Logs/
+/zombie/UserSettings/
+*.csproj
+*.sln
+*.user
+*.unityproj
