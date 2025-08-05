@@ -2,7 +2,7 @@
 /zombie/Library/
 /zombie/Temp/
 /zombie/Obj/
-/zombie/Builds/
+/zombie/Build/
 /zombie/Logs/
 /zombie/UserSettings/
 *.csproj
