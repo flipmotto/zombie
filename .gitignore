@@ -1,0 +1,15 @@
+# --- Unity ---
+/zombie/Library/
+/zombie/Temp/
+/zombie/Obj/
+/zombie/Build/
+/zombie/Logs/
+/zombie/UserSettings/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# --- Node backend ---
+/backend/node_modules/
+/backend/.env
